@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netflixclone/static/css/main.37cdacda.chunk.css",
+    "main.js": "/netflixclone/static/js/main.26d5bebb.chunk.js",
+    "main.js.map": "/netflixclone/static/js/main.26d5bebb.chunk.js.map",
+    "runtime-main.js": "/netflixclone/static/js/runtime-main.464e34b6.js",
+    "runtime-main.js.map": "/netflixclone/static/js/runtime-main.464e34b6.js.map",
+    "static/js/2.3b099dca.chunk.js": "/netflixclone/static/js/2.3b099dca.chunk.js",
+    "static/js/2.3b099dca.chunk.js.map": "/netflixclone/static/js/2.3b099dca.chunk.js.map",
+    "static/js/3.9aca6a9e.chunk.js": "/netflixclone/static/js/3.9aca6a9e.chunk.js",
+    "static/js/3.9aca6a9e.chunk.js.map": "/netflixclone/static/js/3.9aca6a9e.chunk.js.map",
+    "index.html": "/netflixclone/index.html",
+    "static/css/main.37cdacda.chunk.css.map": "/netflixclone/static/css/main.37cdacda.chunk.css.map",
+    "static/js/2.3b099dca.chunk.js.LICENSE.txt": "/netflixclone/static/js/2.3b099dca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.464e34b6.js",
+    "static/js/2.3b099dca.chunk.js",
+    "static/css/main.37cdacda.chunk.css",
+    "static/js/main.26d5bebb.chunk.js"
+  ]
+}
